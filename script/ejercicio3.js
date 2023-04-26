@@ -1,4 +1,4 @@
-let nomb1, nomb2
+let nomb1, nomb2;
 let salario1, deducciones1, bonificacion1, bruto1, neto1;
 let salario2, deducciones2, bonificacion2, bruto2, neto2;
 
